@@ -51,6 +51,6 @@
         "device_{id": "6f2a9cf4a5ff4be0",
         "key": "6789044",
         "expirydate": "15-12-2025",
-        "Allowoffline": 
+        "Allowoffline": false
     }
 ]
