@@ -23,4 +23,10 @@
         "expirydate": "30-08-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "d8d90ed0a333484e",
+        "key": "Bhugram01",
+        "expirydate": "25-09-2026",
+        "Allowoffline": true
+    },
 ]
